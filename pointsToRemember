@@ -1,0 +1,8 @@
+GIT CHEATS:
+    git init
+    git status
+    git commit -m "des"
+    git log
+    git checkout branch_name
+    git log list
+    
