@@ -5,9 +5,11 @@ CHEATS:
         git status
         git commit -m "des"
         git log
+        git branch branch_name
         git checkout branch_name
         git log list
         git merge
+
     GITHUB: 
         git remote add origin https://github.com/****
         git push -u origin master
