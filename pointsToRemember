@@ -1,8 +1,14 @@
-GIT CHEATS:
-    git init
-    git add .
-    git status
-    git commit -m "des"
-    git log
-    git checkout branch_name
-    git log list
+CHEATS:
+    GIT:
+        git init
+        git add .
+        git status
+        git commit -m "des"
+        git log
+        git checkout branch_name
+        git log list
+        git merge
+    GITHUB: 
+        git remote add origin https://github.com/****
+        git push -u origin master
+        git pull 'remote_name' 'branch_name'
